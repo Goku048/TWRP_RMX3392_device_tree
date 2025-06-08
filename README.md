@@ -36,7 +36,7 @@
 ![Backup](https://github.com/DH-HEART048/TWRP_RMX3392_device_tree/assets/137413988/0b2f83ac-48d7-4298-84b9-04c2502adb79)
 </p>
 </details>
----------------
+
 -----
 #### flashing
 
