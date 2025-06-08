@@ -37,7 +37,15 @@
 </p>
 </details>
 ---------------
+-----
+#### flashing
 
+```bash
+fastboot
+fastboot flash boot_[a][b] boot.img
+```
+
+-----
 
 
 
